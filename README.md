@@ -1,10 +1,16 @@
 - @LuxKDE
--  I’m interested in programming and coding
--  Basics of programming
-- 💞️ I’m looking to collaborate with nothing right now.
+  
+-  I’m interested in programming and coding.
+
+-  Still learning the Basics of programming.
+ 
+-  I’m looking to collaborate with nothing right now.
+  
 - 📫 How to reach me . . . discord: luxkde_
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i was born prematurely.
+  
+-  Pronouns: he/him
+  
+-  Fun fact: i was born prematurely.
 
 <!---
 LuxKDE/LuxKDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
