@@ -6,7 +6,7 @@
  
 -  I’m looking to collaborate with nothing right now.
   
--  How to reach me >>> discord: luxkde_
+-  How to reach me >>> discord: _lux009_
   
 -  Pronouns: he/him
   
